@@ -1,5 +1,5 @@
 # FIFA World Cup Twitter Sentiment Analysis
-### EECS 6893 Group 18: Anne Wei, Robert Shi
+### Anne Wei, Robert Shi
 
 ## Supplementary files
 Files > 100 MB cannot be committed to GitHub. Please access through https://drive.google.com/drive/folders/1CD2go0M8eqwxXQbx2WSAAGgZzNgvAUmZ?usp=sharing
@@ -49,8 +49,8 @@ Execute with `python -m flask run` in Terminal.
 8. `final_analysis.ipynb`\
 Perform multiple analyses which generate insights about public sentiment to FIFA 2022.
 
-9. `scratch.ipynb` and `test.py`\
-The scratch papers for team members to run temporary code. Please ignore them.
+9. `test.py`\
+The scratch paper to run temporary code. Please ignore it.
 
 ## Environment setup (conda recommended)
 `nltk==3.7`, `tweepy==4.12.1` (`conda-forge` channel), `flask==2.1.3`, `plotly==5.9.0`, and other required\
